@@ -1,5 +1,5 @@
 ---
-title: Shadowrun: Next of Kin
+title: Shadowrun - Next of Kin
 publish: true
 ---
 
