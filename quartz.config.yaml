@@ -260,6 +260,7 @@ plugins:
     enabled: true
     options: {}
     order: 50
+filters: [Plugin.ExplicitPublish()],
 layout:
   groups:
     toolbar:
