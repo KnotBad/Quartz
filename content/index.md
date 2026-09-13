@@ -1,7 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Shadowrun: Next of Kin
 publish: true
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+See [[Campaign Landing Page]]
