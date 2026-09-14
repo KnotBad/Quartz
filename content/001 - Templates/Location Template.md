@@ -1,6 +1,7 @@
 ---
 tags:
   - location
+publish:
 ---
 # {{title}}
 ## Summary
@@ -8,6 +9,7 @@ tags:
 **Located:** 
 **Controlling Faction(s):** 
 **Notable NPCs:** 
+**Security Level:** 
 **Notes:** 
 ## Security
 ### Physical: 

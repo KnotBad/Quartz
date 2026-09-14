@@ -2,6 +2,7 @@
 tags:
   - character
   - NPC
+publish:
 ---
 ## Summary
 **Real Name:** 

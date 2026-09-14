@@ -2,6 +2,7 @@
 tags:
   - runPage
 aliases:
+publish:
 ---
 ## Basics
 **Employer:** 
